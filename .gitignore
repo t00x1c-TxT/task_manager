@@ -1,0 +1,24 @@
+#системные файлы
+__pycache__/
+*.pyc
+*.pyp
+*.pyd
+
+
+#редактор
+.idea/
+.vscode/
+*.swp
+*.swo
+
+#виртуальное окружение
+venv/
+env/
+ENV/
+
+
+#файлы настроек
+*.log
+*.pot
+*.pyc
+.DS_store
